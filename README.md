@@ -24,7 +24,6 @@ It also supports the automatic download of your Java library dependencies, with 
 groovy. You don't have to worry about finding and installing libraries or making sure everything is updated properly.
 
 
-Screenshot_2019-06-24-06-06-46.png
 
 
 
