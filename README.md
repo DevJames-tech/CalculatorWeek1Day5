@@ -1,5 +1,7 @@
 # CalculatorWeek1Day5
 
+keep Running into trouble with Github, it keeps asking for a security token.
+
 1.  What are Listeners?
 2. How does Java garbage collection work?
 3. What is the android manifest used for?
